@@ -1,0 +1,45 @@
+{
+  "name": "Spring heritage bank",
+  "short_name": "SHBank",
+  "icons": [
+    {
+      "src": "images/icons/48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icons/96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icons/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icons/256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "images/icons/384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "images/icons/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.php",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff",
+  "theme_color": "#3aa5dc",
+  "description": "SPRING HERITAGE Bank works tirelessly to provide consumers, corporations, governments and institutions with a broad range of financial services",
+  "dir": "ltr",
+  "lang": "en-US"
+}
